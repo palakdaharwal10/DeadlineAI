@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineAI",
+  "description": "An AI-powered productivity companion that helps you avoid missing deadlines by proactively planning, prioritizing, and analyzing risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
